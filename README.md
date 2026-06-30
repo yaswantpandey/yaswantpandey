@@ -61,18 +61,40 @@ $ cat base.txt
 
 SUDARSHAN AI is the flagship project — a scanner that pairs classic pentesting technique with AI-driven analysis to flag vulnerabilities in web apps.
 
-<div align="center">
-<table>
+<table width="100%">
 <tr>
-<td><a href="https://github.com/yaswantpandey/sudarshan-ai-web-vulnerability-scanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yaswantpandey&repo=sudarshan-ai-web-vulnerability-scanner&bg_color=0D1117&title_color=2EE6A6&icon_color=8B7CF6&text_color=E6EDF3&border_color=21262D&hide_border=false" alt="SUDARSHAN AI web vulnerability scanner"/></a></td>
-<td><a href="https://github.com/yaswantpandey/cybersecurity-toolkit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yaswantpandey&repo=cybersecurity-toolkit&bg_color=0D1117&title_color=2EE6A6&icon_color=8B7CF6&text_color=E6EDF3&border_color=21262D&hide_border=false" alt="Cybersecurity Toolkit"/></a></td>
+<td width="50%" valign="top">
+<h4>🛡️ <a href="https://github.com/yaswantpandey/sudarshan-ai-web-vulnerability-scanner">SUDARSHAN AI — Web Vulnerability Scanner</a></h4>
+Professional web app security scanner pairing traditional pentesting with AI-powered vulnerability analysis.
+<br/><br/>
+<img src="https://img.shields.io/github/languages/top/yaswantpandey/sudarshan-ai-web-vulnerability-scanner?style=flat-square&color=2EE6A6&labelColor=0D1117" alt="language"/>
+<img src="https://img.shields.io/github/stars/yaswantpandey/sudarshan-ai-web-vulnerability-scanner?style=flat-square&color=FFB454&labelColor=0D1117" alt="stars"/>
+</td>
+<td width="50%" valign="top">
+<h4>🧰 <a href="https://github.com/yaswantpandey/cybersecurity-toolkit">Cybersecurity Toolkit</a></h4>
+A suite of security tools built during a CODTECH internship, covering practical, real-world testing needs.
+<br/><br/>
+<img src="https://img.shields.io/github/languages/top/yaswantpandey/cybersecurity-toolkit?style=flat-square&color=2EE6A6&labelColor=0D1117" alt="language"/>
+<img src="https://img.shields.io/github/stars/yaswantpandey/cybersecurity-toolkit?style=flat-square&color=FFB454&labelColor=0D1117" alt="stars"/>
+</td>
 </tr>
 <tr>
-<td><a href="https://github.com/yaswantpandey/solarsystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yaswantpandey&repo=solarsystem&bg_color=0D1117&title_color=2EE6A6&icon_color=8B7CF6&text_color=E6EDF3&border_color=21262D&hide_border=false" alt="Solar System"/></a></td>
-<td><a href="https://github.com/yaswantpandey/Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yaswantpandey&repo=Calculator&bg_color=0D1117&title_color=2EE6A6&icon_color=8B7CF6&text_color=E6EDF3&border_color=21262D&hide_border=false" alt="Calculator"/></a></td>
+<td width="50%" valign="top">
+<h4>🪐 <a href="https://github.com/yaswantpandey/solarsystem">Solar System</a></h4>
+An interactive solar system visualization built with CSS.
+<br/><br/>
+<img src="https://img.shields.io/github/languages/top/yaswantpandey/solarsystem?style=flat-square&color=2EE6A6&labelColor=0D1117" alt="language"/>
+<img src="https://img.shields.io/github/stars/yaswantpandey/solarsystem?style=flat-square&color=FFB454&labelColor=0D1117" alt="stars"/>
+</td>
+<td width="50%" valign="top">
+<h4>🧮 <a href="https://github.com/yaswantpandey/Calculator">Calculator</a></h4>
+A clean, functional calculator built with HTML, CSS and JavaScript.
+<br/><br/>
+<img src="https://img.shields.io/github/languages/top/yaswantpandey/Calculator?style=flat-square&color=2EE6A6&labelColor=0D1117" alt="language"/>
+<img src="https://img.shields.io/github/stars/yaswantpandey/Calculator?style=flat-square&color=FFB454&labelColor=0D1117" alt="stars"/>
+</td>
 </tr>
 </table>
-</div>
 
 <br/>
 
