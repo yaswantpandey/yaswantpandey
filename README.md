@@ -32,7 +32,7 @@ $ cat base.txt
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -57,7 +57,7 @@ $ cat base.txt
 
 ---
 
-### 📌 Featured Work
+###  Featured Work
 
 SUDARSHAN AI is the flagship project — a scanner that pairs classic pentesting technique with AI-driven analysis to flag vulnerabilities in web apps.
 
@@ -80,14 +80,14 @@ A suite of security tools built during a CODTECH internship, covering practical,
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4>🪐 <a href="https://github.com/yaswantpandey/solarsystem">Solar System</a></h4>
+<h4> <a href="https://github.com/yaswantpandey/solarsystem">Solar System</a></h4>
 An interactive solar system visualization built with CSS.
 <br/><br/>
 <img src="https://img.shields.io/github/languages/top/yaswantpandey/solarsystem?style=flat-square&color=2EE6A6&labelColor=0D1117" alt="language"/>
 <img src="https://img.shields.io/github/stars/yaswantpandey/solarsystem?style=flat-square&color=FFB454&labelColor=0D1117" alt="stars"/>
 </td>
 <td width="50%" valign="top">
-<h4>🧮 <a href="https://github.com/yaswantpandey/Calculator">Calculator</a></h4>
+<h4> <a href="https://github.com/yaswantpandey/Calculator">Calculator</a></h4>
 A clean, functional calculator built with HTML, CSS and JavaScript.
 <br/><br/>
 <img src="https://img.shields.io/github/languages/top/yaswantpandey/Calculator?style=flat-square&color=2EE6A6&labelColor=0D1117" alt="language"/>
@@ -104,10 +104,10 @@ A clean, functional calculator built with HTML, CSS and JavaScript.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yaswantpandey&show_icons=true&include_all_commits=true&count_private=false&bg_color=0D1117&title_color=2EE6A6&icon_color=8B7CF6&text_color=E6EDF3&border_color=21262D&hide_border=false&rank_icon=github" alt="Yaswant's GitHub stats" height="165"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=yaswantpandey&show_icons=true&include_all_commits=true&count_private=false&bg_color=0D1117&title_color=2EE6A6&icon_color=8B7CF6&text_color=E6EDF3&border_color=21262D&hide_border=false&rank_icon=github" alt="Yaswant's GitHub stats" height="165"/> -->
 <img src="https://streak-stats.demolab.com/?user=yaswantpandey&background=0D1117&ring=2EE6A6&fire=FFB454&currStreakLabel=2EE6A6&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&border=21262D&hide_border=false" alt="GitHub streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswantpandey&layout=compact&langs_count=8&bg_color=0D1117&title_color=2EE6A6&text_color=E6EDF3&border_color=21262D&hide_border=false" alt="Top languages"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswantpandey&layout=compact&langs_count=8&bg_color=0D1117&title_color=2EE6A6&text_color=E6EDF3&border_color=21262D&hide_border=false" alt="Top languages"/> -->
 
 <!--
 Contribution snake — activates once snake.yml runs in this repo (workflow file included separately).
@@ -123,7 +123,7 @@ Contribution snake — activates once snake.yml runs in this repo (workflow file
 
 ---
 
-### 🏆 Trophy Cabinet
+###  Trophy Cabinet
 
 <div align="center">
 
@@ -135,7 +135,7 @@ Contribution snake — activates once snake.yml runs in this repo (workflow file
 
 ---
 
-### 📡 Connect
+###  Connect
 
 <div align="center">
 
