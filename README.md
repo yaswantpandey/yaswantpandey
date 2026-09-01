@@ -64,14 +64,14 @@ SUDARSHAN AI is the flagship project — a scanner that pairs classic pentesting
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h4>🛡️ <a href="https://github.com/yaswantpandey/sudarshan-ai-web-vulnerability-scanner">SUDARSHAN AI — Web Vulnerability Scanner</a></h4>
+<h4> <a href="https://github.com/yaswantpandey/sudarshan-ai-web-vulnerability-scanner">SUDARSHAN AI — Web Vulnerability Scanner</a></h4>
 Professional web app security scanner pairing traditional pentesting with AI-powered vulnerability analysis.
 <br/><br/>
 <img src="https://img.shields.io/github/languages/top/yaswantpandey/sudarshan-ai-web-vulnerability-scanner?style=flat-square&color=2EE6A6&labelColor=0D1117" alt="language"/>
 <img src="https://img.shields.io/github/stars/yaswantpandey/sudarshan-ai-web-vulnerability-scanner?style=flat-square&color=FFB454&labelColor=0D1117" alt="stars"/>
 </td>
 <td width="50%" valign="top">
-<h4>🧰 <a href="https://github.com/yaswantpandey/cybersecurity-toolkit">Cybersecurity Toolkit</a></h4>
+<h4> <a href="https://github.com/yaswantpandey/cybersecurity-toolkit">Cybersecurity Toolkit</a></h4>
 A suite of security tools built during a CODTECH internship, covering practical, real-world testing needs.
 <br/><br/>
 <img src="https://img.shields.io/github/languages/top/yaswantpandey/cybersecurity-toolkit?style=flat-square&color=2EE6A6&labelColor=0D1117" alt="language"/>
@@ -100,7 +100,7 @@ A clean, functional calculator built with HTML, CSS and JavaScript.
 
 ---
 
-### 📊 GitHub Activity
+###  GitHub Activity
 
 <div align="center">
 
